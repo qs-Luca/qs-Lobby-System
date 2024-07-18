@@ -3,7 +3,7 @@ A public Lobby System for your Minecraft Server
 
 
 Commands:
-- /lobby
+- /lobby --> Teleport to lobby
 - /kick
 - /warn
 - /report
