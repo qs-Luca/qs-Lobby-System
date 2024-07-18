@@ -8,7 +8,13 @@ Commands:
 - /warn --> warns a User
 - /report --> Report a user to the staff team
 - /protect-lobby --> Protect lobby from griefing
-- kill-all --> Kill all Users on the server 
+- /kill-all --> Kill all Users on the server 
+- /announcement --> Announce a message on the server
+
+
+Permissions list:
+- /kick command --> qs.kick.use
+- /warn command --> qs.warn.use
 
 
 This plugin was created by qs-scripts.com (Minecraft Services).
